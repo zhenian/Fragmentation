@@ -5,6 +5,7 @@ import androidx.annotation.NonNull;
 /**
  * Created by YoKey on 17/2/5.
  */
+@Deprecated
 public interface ExceptionHandler {
     void onException(@NonNull Exception e);
 }

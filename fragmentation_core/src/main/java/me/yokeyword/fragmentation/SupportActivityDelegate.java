@@ -14,7 +14,7 @@ import me.yokeyword.fragmentation.anim.DefaultVerticalAnimator;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
 import me.yokeyword.fragmentation.debug.DebugStackDelegate;
 import me.yokeyword.fragmentation.queue.Action;
-
+@Deprecated
 public class SupportActivityDelegate {
     private ISupportActivity mSupport;
     private FragmentActivity mActivity;

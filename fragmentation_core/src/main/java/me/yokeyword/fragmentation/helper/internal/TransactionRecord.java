@@ -7,6 +7,7 @@ import java.util.ArrayList;
 /**
  * @hide Created by YoKey on 16/11/25.
  */
+@Deprecated
 public final class TransactionRecord {
     public String tag;
     public int targetFragmentEnter = Integer.MIN_VALUE;

@@ -20,7 +20,7 @@ import me.yokeyword.fragmentation.helper.internal.AnimatorHelper;
 import me.yokeyword.fragmentation.helper.internal.ResultRecord;
 import me.yokeyword.fragmentation.helper.internal.TransactionRecord;
 import me.yokeyword.fragmentation.helper.internal.VisibleDelegate;
-
+@Deprecated
 public class SupportFragmentDelegate {
     private static final long NOT_FOUND_ANIM_TIME = 300L;
 

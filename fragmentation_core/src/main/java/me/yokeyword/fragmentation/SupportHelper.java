@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * Created by YoKey on 17/6/13.
  */
-
+@Deprecated
 public class SupportHelper {
     private static final long SHOW_SPACE = 200L;
 

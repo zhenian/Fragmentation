@@ -19,6 +19,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
  * <p>
  * Created by YoKey on 17/10/17.
  */
+@Deprecated
 public class EventBusActivityScope {
     private static final String TAG = EventBusActivityScope.class.getSimpleName();
 

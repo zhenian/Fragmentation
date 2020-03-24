@@ -8,6 +8,7 @@ import me.yokeyword.fragmentation.R;
 /**
  * Created by YoKeyword on 16/2/5.
  */
+@Deprecated
 public class DefaultHorizontalAnimator extends FragmentAnimator implements Parcelable{
 
     public DefaultHorizontalAnimator() {

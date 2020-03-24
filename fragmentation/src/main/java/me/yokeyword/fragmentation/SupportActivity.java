@@ -16,6 +16,7 @@ import me.yokeyword.fragmentation.anim.FragmentAnimator;
  * <p>
  * Created by YoKey on 17/6/20.
  */
+@Deprecated
 public class SupportActivity extends AppCompatActivity implements ISupportActivity {
     final SupportActivityDelegate mDelegate = new SupportActivityDelegate(this);
 

@@ -33,6 +33,7 @@ import me.yokeyword.fragmentation_swipeback.core.ISwipeBackActivity;
  * <p>
  * Created by YoKey on 16/4/19.
  */
+@Deprecated
 public class SwipeBackLayout extends FrameLayout {
     /**
      * Edge flag indicating that the left edge should be affected.

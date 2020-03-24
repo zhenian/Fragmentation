@@ -16,6 +16,7 @@ import me.yokeyword.fragmentation_swipeback.core.SwipeBackFragmentDelegate;
  * <p>
  * Created by YoKey on 16/4/19.
  */
+@Deprecated
 public class SwipeBackFragment extends SupportFragment implements ISwipeBackFragment {
     final SwipeBackFragmentDelegate mDelegate = new SwipeBackFragmentDelegate(this);
 

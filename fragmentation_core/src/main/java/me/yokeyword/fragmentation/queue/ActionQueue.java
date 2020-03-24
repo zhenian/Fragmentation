@@ -14,6 +14,7 @@ import me.yokeyword.fragmentation.SupportHelper;
  * <p>
  * Created by YoKey on 17/12/29.
  */
+@Deprecated
 public class ActionQueue {
     private Queue<Action> mQueue = new LinkedList<>();
     private Handler mMainHandler;

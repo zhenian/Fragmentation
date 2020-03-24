@@ -11,6 +11,7 @@ import android.net.Uri;
  *
  * Created by YoKey on 17/10/17.
  */
+@Deprecated
 public class RuntimeTrojanProvider extends ContentProvider {
     @Override
     public boolean onCreate() {

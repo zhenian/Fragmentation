@@ -15,7 +15,7 @@ import me.yokeyword.fragmentation.ISupportFragment;
 /**
  * Created by YoKey on 17/4/4.
  */
-
+@Deprecated
 public class VisibleDelegate {
     private static final String FRAGMENTATION_STATE_SAVE_IS_INVISIBLE_WHEN_LEAVE = "fragmentation_invisible_when_leave";
     private static final String FRAGMENTATION_STATE_SAVE_COMPAT_REPLACE = "fragmentation_compat_replace";

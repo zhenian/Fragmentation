@@ -22,6 +22,7 @@ import me.yokeyword.fragmentation.R;
 /**
  * Created by YoKeyword on 16/2/21.
  */
+@Deprecated
 public class DebugHierarchyViewContainer extends ScrollView {
     private Context mContext;
 

@@ -12,7 +12,7 @@ import me.yokeyword.fragmentation.anim.FragmentAnimator;
 /**
  * Created by YoKey on 17/6/23.
  */
-
+@Deprecated
 public interface ISupportFragment {
     // LaunchMode
     int STANDARD = 0;

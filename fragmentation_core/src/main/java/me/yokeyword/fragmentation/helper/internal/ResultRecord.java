@@ -9,6 +9,7 @@ import android.os.Parcelable;
  * Result 记录
  * Created by YoKeyword on 16/6/2.
  */
+@Deprecated
 public final class ResultRecord implements Parcelable {
     public int requestCode;
     public int resultCode = 0;

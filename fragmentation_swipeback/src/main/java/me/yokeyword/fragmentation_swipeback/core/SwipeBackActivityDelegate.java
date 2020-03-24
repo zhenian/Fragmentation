@@ -12,7 +12,7 @@ import me.yokeyword.fragmentation.SwipeBackLayout;
 /**
  * Created by YoKey on 17/6/29.
  */
-
+@Deprecated
 public class SwipeBackActivityDelegate {
     private FragmentActivity mActivity;
     private SwipeBackLayout mSwipeBackLayout;

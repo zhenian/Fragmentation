@@ -10,6 +10,7 @@ import me.yokeyword.fragmentation.helper.ExceptionHandler;
 /**
  * Created by YoKey on 17/2/5.
  */
+@Deprecated
 public class Fragmentation {
     /**
      * Dont display stack view.

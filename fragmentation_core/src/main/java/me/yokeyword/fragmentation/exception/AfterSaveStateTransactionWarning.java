@@ -32,6 +32,7 @@ import android.util.Log;
  * <p>
  * Created by YoKey on 17/12/26.
  */
+@Deprecated
 public class AfterSaveStateTransactionWarning extends RuntimeException {
 
     public AfterSaveStateTransactionWarning(String action) {

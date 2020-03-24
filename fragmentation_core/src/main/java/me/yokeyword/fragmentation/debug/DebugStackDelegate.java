@@ -31,6 +31,7 @@ import me.yokeyword.fragmentation.R;
  * Created by YoKey on 17/6/13.
  */
 
+@Deprecated
 public class DebugStackDelegate implements SensorEventListener {
     private FragmentActivity mActivity;
     private SensorManager mSensorManager;

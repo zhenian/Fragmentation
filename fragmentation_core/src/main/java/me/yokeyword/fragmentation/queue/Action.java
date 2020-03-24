@@ -6,6 +6,7 @@ import androidx.fragment.app.FragmentManager;
  * Created by YoKey on 17/12/28.
  */
 
+@Deprecated
 public abstract class Action {
     public static final long DEFAULT_POP_TIME = 300L;
 

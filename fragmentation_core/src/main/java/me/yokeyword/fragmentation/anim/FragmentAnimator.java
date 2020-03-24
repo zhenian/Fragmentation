@@ -8,6 +8,7 @@ import androidx.annotation.AnimRes;
  * Fragment动画实体类
  * Created by YoKeyword on 16/2/4.
  */
+@Deprecated
 public class FragmentAnimator implements Parcelable {
     @AnimRes
     protected int enter;

@@ -12,6 +12,7 @@ import me.yokeyword.fragmentation.anim.FragmentAnimator;
 /**
  * @Hide Created by YoKeyword on 16/7/26.
  */
+@Deprecated
 public final class AnimatorHelper {
     private Animation noneAnim, noneAnimFixed;
     public Animation enterAnim, exitAnim, popEnterAnim, popExitAnim;

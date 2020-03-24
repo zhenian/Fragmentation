@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * Created by YoKey on 16/1/22.
  */
+@Deprecated
 public class FragmentationMagician {
 
     public static boolean isStateSaved(FragmentManager fragmentManager) {
